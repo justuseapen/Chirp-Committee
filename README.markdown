@@ -8,3 +8,8 @@ With Chirp Committee, you can have it automatically remember who's sitting where
 * Roundtables
 * City Government
 * Non-profit, public meetings
+
+# Installation
+This assumes you already have ruby and rubygems installed
+
+    sudo gem install sinatra
