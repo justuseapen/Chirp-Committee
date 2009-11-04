@@ -2,3 +2,9 @@ Chirp Committee makes it easier to "live tweet" about an event. Say you're at yo
 
 With Chirp Committee, you can have it automatically remember who's sitting where and automatically include their tag in your tweets.
 
+# Uses
+* Senate Commitee Meetings
+* Panels 
+* Roundtables
+* City Government
+* Non-profit, public meetings
