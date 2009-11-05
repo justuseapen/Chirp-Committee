@@ -12,4 +12,4 @@ With Chirp Committee, you can have it automatically remember who's sitting where
 # Installation
 This assumes you already have ruby and rubygems installed
 
-    sudo gem install sinatra
+    sudo gem install sinatra twitter4r
