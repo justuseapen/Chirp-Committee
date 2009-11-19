@@ -1,8 +1,8 @@
 // ==========================================================================
-// Project:   Chirp-committee
+// Project:   Cc
 // Copyright: ©2009 My Company, Inc.
 // ==========================================================================
-/*globals Chirp-committee */
+/*globals Cc */
 
 // This is the function that will start your app running.  The default
 // implementation will load any fixtures you have created then instantiate
@@ -11,20 +11,20 @@
 // As you develop your application you will probably want to override this.
 // See comments for some pointers on what to do next.
 //
-Chirp-committee.main = function main() {
+Cc.main = function main() {
 
   // Step 1: Instantiate Your Views
   // The default code here will make the mainPane for your application visible
   // on screen.  If you app gets any level of complexity, you will probably 
   // create multiple pages and panes.  
-  Chirp-committee.getPath('mainPage.mainPane').append() ;
+  Cc.getPath('mainPage.mainPane').append() ;
 
   // Step 2. Set the content property on your primary controller.
   // This will make your app come alive!
 
   // TODO: Set the content property on your primary controller
-  // ex: Chirp-committee.contactsController.set('content',Chirp-committee.contacts);
+  // ex: Cc.contactsController.set('content',Cc.contacts);
 
 } ;
 
-function main() { Chirp-committee.main(); }
+function main() { Cc.main(); }

@@ -1,11 +1,11 @@
 // ==========================================================================
-// Project:   Chirp-committee - mainPage
+// Project:   Cc - mainPage
 // Copyright: ©2009 My Company, Inc.
 // ==========================================================================
-/*globals Chirp-committee */
+/*globals Cc */
 
 // This page describes the main user interface for your application.  
-Chirp-committee.mainPage = SC.Page.design({
+Cc.mainPage = SC.Page.design({
 
   // The main pane is made visible on screen as soon as your app is loaded.
   // Add childViews to this pane for views to display immediately on page 

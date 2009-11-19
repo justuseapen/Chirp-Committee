@@ -1,8 +1,8 @@
 // ==========================================================================
-// Project:   Chirp-committee
+// Project:   Cc
 // Copyright: ©2009 My Company, Inc.
 // ==========================================================================
-/*globals Chirp-committee */
+/*globals Cc */
 
 /** @namespace
 
@@ -10,10 +10,10 @@
   
   @extends SC.Object
 */
-Chirp-committee = SC.Application.create(
-  /** @scope Chirp-committee.prototype */ {
+Cc = SC.Application.create(
+  /** @scope Cc.prototype */ {
 
-  NAMESPACE: 'Chirp-committee',
+  NAMESPACE: 'Cc',
   VERSION: '0.1.0',
 
   // This is your application store.  You will use this store to access all
