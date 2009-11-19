@@ -22,8 +22,8 @@ Cc.main = function main() {
   // Step 2. Set the content property on your primary controller.
   // This will make your app come alive!
 
-  // TODO: Set the content property on your primary controller
-  // ex: Cc.contactsController.set('content',Cc.contacts);
+  var people = Cc.store.find(Cc.Person);
+  Cc.personController.set('content', people);
 
 } ;
 
